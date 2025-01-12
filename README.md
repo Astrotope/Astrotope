@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://astrotope.org">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=flat" alt="Visit My Website">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=flat-square" alt="Visit My Website">
   </a>
 </div>
 
