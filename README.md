@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.astrotope.org">
-    <img src="images/astrotope_banner.jpg" alt="Astrotope Banner">
+    <img src="images/astrotope_banner.png" alt="Astrotope Banner">
   </a>
 </p>
 
