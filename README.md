@@ -1,7 +1,9 @@
 [Visit My Website](https://www.astrotope.org)
 
-<a href="https://www.astrotope.org" target="_blank">
-  <img src="https://via.placeholder.com/150x50?text=Visit+My+Website&color=blue" alt="Visit My Website" style="border-radius:5px;"/>
+<a href="https://www.astrotope.org" target="_blank" style="text-decoration:none;">
+  <div style="display:inline-block; background-color:#0078D4; color:white; padding:10px 20px; border-radius:5px; font-family:sans-serif; font-size:16px;">
+    Visit My Website
+  </div>
 </a>
 
 - 👋 Hi, I’m @Astrotope
