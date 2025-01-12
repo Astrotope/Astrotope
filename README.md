@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="[https://yourwebsite.com](https://www.astrotope.org)">
+    <img src="./images/astrotope_banner.jpg" alt="Astrotope Banner">
+  </a>
+</p>
+
 - 👋 Hi, I’m @Astrotope
 - 👀 I’m interested in Web Application Design
 - 🌱 I’m currently learning SERN Stack and Typescript
