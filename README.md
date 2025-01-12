@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<a href="https://<your-username>.github.io">
+<a href="https://astrotope.org">
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
     <rect width="200" height="50" fill="#0078D4" rx="10" />
     <text x="50%" y="50%" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" dominant-baseline="middle" text-anchor="middle">
@@ -12,6 +12,9 @@
     </text>
   </svg>
 </a>
+
+[![Visit My Website](https://img.shields.io/badge/%20%20Visit%20My%20Website%20%20-0078D4?style=for-the-badge)](https://astrotope.org)
+
 
 
 - 👋 Hi, I’m @Astrotope
