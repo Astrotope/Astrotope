@@ -13,7 +13,7 @@
   </svg>
 </a>
 
-[![Visit My Website](https://img.shields.io/badge/%20%20Visit%20My%20Website%20%20-0078D4?style=for-the-badge)](https://astrotope.org)
+[![Visit My Website](https://img.shields.io/badge/%20%20Visit%20My%20Website%20%20-0078D4?style=flat)](https://astrotope.org)
 
 
 
