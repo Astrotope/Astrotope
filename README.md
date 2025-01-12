@@ -1,4 +1,4 @@
-[Visit My Website](https://astrotope.org)
+[Visit My Website](https://www.astrotope.org)
 
 - 👋 Hi, I’m @Astrotope
 - 👀 I’m interested in Web Application Design
