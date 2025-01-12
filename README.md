@@ -1,10 +1,7 @@
 [Visit My Website](https://www.astrotope.org)
 
-<a href="https://www.astrotope.org" target="_blank" style="text-decoration:none;">
-  <div style="display:inline-block; background-color:#0078D4; color:white; padding:10px 20px; border-radius:5px; font-family:sans-serif; font-size:16px;">
-    Visit My Website
-  </div>
-</a>
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge)](https://<your-username>.github.io)
+
 
 - 👋 Hi, I’m @Astrotope
 - 👀 I’m interested in Web Application Design
