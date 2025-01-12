@@ -1,8 +1,17 @@
 <div align="center">
   <a href="https://astrotope.org">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=flat-square" alt="Visit My Website">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=flat" alt="Visit My Website">
   </a>
 </div>
+
+<a href="https://<your-username>.github.io">
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+    <rect width="200" height="50" fill="#0078D4" rx="10" />
+    <text x="50%" y="50%" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" dominant-baseline="middle" text-anchor="middle">
+      Visit My Website
+    </text>
+  </svg>
+</a>
 
 
 - 👋 Hi, I’m @Astrotope
