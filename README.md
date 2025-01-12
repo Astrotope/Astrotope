@@ -1,6 +1,8 @@
-[Visit My Website](https://www.astrotope.org)
-
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge)](https://<your-username>.github.io)
+<div align="center">
+  <a href="https://astrotope.org">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0078D4?style=for-the-badge" alt="Visit My Website">
+  </a>
+</div>
 
 
 - 👋 Hi, I’m @Astrotope
