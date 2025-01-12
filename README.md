@@ -1,5 +1,9 @@
 [Visit My Website](https://www.astrotope.org)
 
+<a href="https://www.astrotope.org" target="_blank">
+  <img src="https://via.placeholder.com/150x50?text=Visit+My+Website&color=blue" alt="Visit My Website" style="border-radius:5px;"/>
+</a>
+
 - 👋 Hi, I’m @Astrotope
 - 👀 I’m interested in Web Application Design
 - 🌱 I’m currently learning SERN Stack and Typescript
