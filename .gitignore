@@ -1,0 +1,54 @@
+# Jekyll specific files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Ruby specific files
+Gemfile.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Local development files
+.env
+.env.local
+.env.*.local
+
+# Cache files
+*.cache
+
+# Build output
+dist/
+build/
+out/
+
+# Temporary files
+tmp/
+temp/
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Other common excludes
+*.bak
+*.tmp
+*.temp

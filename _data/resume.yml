@@ -1,0 +1,63 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Cameron McEwing"
+  label: "Engineer, Full Stack Developer, Educator, Astronomer"
+  email: "astrotope@gmail.com"
+  phone: "(+64) XXX XXX XXXX"
+  website: "https://astrotope.com"
+  summary: >
+    Cameron is an experienced professional engineer, and software developer. 
+    
+  profiles:
+    - network: "GitHub"
+      username: "Astrotope"
+      url: "https://github.com/Astrotope"
+    - network: "LinkedIn"
+      username: "Cameron McEwing"
+      url: "www.linkedin.com/in/2018cameronm"
+work:
+  - company: "Deep Sky Wonder"
+    position: "Consultant"
+    website: "https://deepskywonder.com"
+    startDate: "2029-10-03"
+    endDate: "2022-08-30"
+    endDate: ""
+    highlights:
+      - "Performed curriculum design and development for Slooh.com."
+
+education:
+  - institution: "University of Canterbury (Christchurch, New Zealand)"
+    area: "Electronic and Electrical Engineering"
+    studyType: "Bachelor of Engineering, (First Class Honours)"
+    startDate: "1989-05-01"
+    endDate: "1994-05-01"
+    gpa: "4.0"
+
+skills:
+  - name: "Full Stack Development"
+    keywords:
+      - "React"
+      - "Typescript"
+      - "Javascript"
+      - "Node"
+      - "Python"
+      - "Docker"
+      - "AWS"
+  - name: "Electrical Engineering"
+    keywords:
+      - "Electrical"
+      - "Electronics"
+      - "Power"
+
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+    
+memberships:
+  - name: "Professional memberships"
+    keywords: 
+      - "AAVSO"
+      - "RASANZ"
