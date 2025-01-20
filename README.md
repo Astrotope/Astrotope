@@ -10,13 +10,31 @@
   </a>
 </p>
 
-- 👋 Hi, I’m @Astrotope
-- 👀 I’m interested in Web Application Design
-- 🌱 I’m currently learning SERN Stack and Typescript
-- 💞️ I’m looking to collaborate on Fun Projects
-- 📫 How to reach me cameronm@missionreadyhq.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: The first computer “bug” was an actual moth!
+Hey! I'm **<a href="https://www.astrotope.org" target="_blank">@astrotope</a> (Cameron McEwing)**. 👋
+
+I'm a...
+
+👨‍💻 Full Stack Developer (React/Express, TaiPy/Python, MERN, SERN, Deno/Hono ...)
+👷‍♂️ Engineer
+🔭 Backyard Astrophyicist
+👨‍🏫 Educator/Trainer &
+🏃‍♂️‍➡️ Trail Runner
+
+I'm based in Christchurch, New Zealand 🇳🇿
+
+You can find me on...
+
+📟 [My website: www.astrotope.com](https://www.astrotope.com/?newtab&)
+🎒 [GitHub as @astrotope (you are here)](https://github.com/astrotope)
+🔗 [LinkedIn](https://linkedin.com/in/coding-the-future/?newtab&)
+🎇 [Flickr](https://www.flickr.com/photos/170592527@N06/?newtab&)
+📫 [Email](mailto:innovate.with.astrotope@gmail.com)
+
+I'm...
+
+- 👀 Looking to colaborate on interesting projects
+- 🌱 Insatiably curious by nature 
+- 💞️ Passionate about using code to build a better future
 
 <!---
 Astrotope/Astrotope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
