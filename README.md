@@ -16,7 +16,7 @@ I'm a...
 
 - 👨‍💻 Full Stack Developer (React/Express, TaiPy/Python, MERN, SERN, Deno/Hono ...)
 - 👷‍♂️ Engineer
-- 🔭 Backyard Astrophyicist
+- 🔭 Backyard Astrophysicist
 - 👨‍🏫 Educator/Trainer &
 - 🏃‍♂️‍➡️ Trail Runner
 
