@@ -14,21 +14,21 @@ Hey! I'm **<a href="https://www.astrotope.org" target="_blank">@astrotope</a> (C
 
 I'm a...
 
-👨‍💻 Full Stack Developer (React/Express, TaiPy/Python, MERN, SERN, Deno/Hono ...)
-👷‍♂️ Engineer
-🔭 Backyard Astrophyicist
-👨‍🏫 Educator/Trainer &
-🏃‍♂️‍➡️ Trail Runner
+- 👨‍💻 Full Stack Developer (React/Express, TaiPy/Python, MERN, SERN, Deno/Hono ...)
+- 👷‍♂️ Engineer
+- 🔭 Backyard Astrophyicist
+- 👨‍🏫 Educator/Trainer &
+- 🏃‍♂️‍➡️ Trail Runner
 
 I'm based in Christchurch, New Zealand 🇳🇿
 
 You can find me on...
 
-📟 [My website: www.astrotope.com](https://www.astrotope.com/?newtab&)
-🎒 [GitHub as @astrotope (you are here)](https://github.com/astrotope)
-🔗 [LinkedIn](https://linkedin.com/in/coding-the-future/?newtab&)
-🎇 [Flickr](https://www.flickr.com/photos/170592527@N06/?newtab&)
-📫 [Email](mailto:innovate.with.astrotope@gmail.com)
+- 📟 [My website: www.astrotope.com](https://www.astrotope.com/?newtab&)
+- 🎒 [GitHub as @astrotope (you are here)](https://github.com/astrotope)
+- 🔗 [LinkedIn](https://linkedin.com/in/coding-the-future/?newtab&)
+- 🎇 [Flickr](https://www.flickr.com/photos/170592527@N06/?newtab&)
+- 📫 [Email](mailto:innovate.with.astrotope@gmail.com)
 
 I'm...
 
